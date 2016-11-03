@@ -13,12 +13,18 @@ p, li {
 	color: #2B2B2B;
 }
 
-a:link{
+a:link {
 	font-family: Verdana;
 	color: #3F8FD2;
+	text-decoration: none;
 }
 
-a:visited{
+a:visited {
 	font-family: Verdana;
 	color: #043C6B;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
