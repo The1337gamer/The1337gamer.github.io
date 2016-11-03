@@ -1,0 +1,24 @@
+body {
+	background-color: #F6F6F6;
+	margin-left: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Verdana;
+	color: #DE1B1B;
+}
+
+p, li {
+	font-family: Verdana;
+	color: #2B2B2B;
+}
+
+a:link{
+	font-family: Verdana;
+	color: #3F8FD2;
+}
+
+a:visited{
+	font-family: Verdana;
+	color: #043C6B;
+}
